@@ -1,6 +1,8 @@
 # BODYBYTE
-a system that recommends personalized workouts and diet plans .
+A SYSTEM THAT RECOMMENDS PERSONALIZED WORKOUTS AND DIET PLANS 
+
 1. Problem Definition and Objective
+
 🔹 Problem Definition
 
 Many individuals follow generic workout and diet plans that do not match their body type, fitness level, or goals. This often leads to poor results, injuries, and loss of motivation. There is a need for an intelligent system that can suggest personalized fitness recommendations.
@@ -10,6 +12,7 @@ Many individuals follow generic workout and diet plans that do not match their b
 The objective of this project is to design and develop a fitness recommendation system that provides customized workout and basic diet suggestions based on user attributes such as age, gender, height, weight, BMI, activity level, and fitness goals (weight loss, muscle gain, or general fitness).
 
 2. Data Understanding and Preparation
+
 🔹 Data Understanding
 
 The dataset consists of fitness-related information such as:
@@ -129,6 +132,7 @@ Fairness: The system provides equal quality suggestions for all user categories.
 The system is designed to support healthy living, not replace professional medical or fitness experts.
 
 7. Conclusion and Future Scope
+
 🔹 Conclusion
 
 The AI-based fitness recommendation system demonstrates how machine learning can be used to deliver personalized workout and diet suggestions. The system improves user engagement, motivation, and safety by tailoring plans to individual fitness profiles.
