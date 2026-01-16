@@ -1,0 +1,1101 @@
+Food_Item,Category,Calories,Protein,Carbs,Fat,Goal_Alignment
+Protein Shake Type-0,Snack,120,29,1,3,Weight Loss
+Chicken Breast Type-1,Lunch,385,40,2,11,Body Building
+Salmon Type-2,Dinner,492,31,0,32,Body Building
+Greek Yogurt Type-3,Snack,191,12,3,0,Fitness
+Salmon Type-4,Dinner,518,31,0,26,Weight Loss
+Quinoa Bowl Type-5,Lunch,400,16,76,5,Fitness
+Almonds Type-6,Snack,147,10,7,19,Fitness
+Protein Shake Type-7,Snack,111,28,0,4,Body Building
+Almonds Type-8,Snack,162,5,12,10,Weight Loss
+Almonds Type-9,Snack,137,6,4,12,Fitness
+Eggs Type-10,Breakfast,208,16,4,18,Fitness
+Oatmeal Type-11,Breakfast,319,13,55,9,Body Building
+Greek Yogurt Type-12,Snack,214,11,19,8,Weight Loss
+Oatmeal Type-13,Breakfast,340,9,45,4,Fitness
+Steak Type-14,Dinner,716,49,5,45,Muscle Gain
+Quinoa Bowl Type-15,Lunch,465,13,78,6,Fitness
+Salmon Type-16,Dinner,533,35,0,33,Body Building
+Salad Type-17,Lunch,239,2,24,13,Body Building
+Chicken Breast Type-18,Lunch,358,43,0,11,Weight Loss
+Salad Type-19,Lunch,158,3,18,12,Body Building
+Chicken Breast Type-20,Lunch,406,49,0,5,Body Building
+Chicken Breast Type-21,Lunch,415,45,0,8,Body Building
+Salad Type-22,Lunch,250,2,11,10,Weight Loss
+Protein Shake Type-23,Snack,143,23,3,1,Weight Loss
+Protein Shake Type-24,Snack,158,30,15,0,Muscle Gain
+Salmon Type-25,Dinner,523,36,5,32,Weight Loss
+Oatmeal Type-26,Breakfast,257,8,60,9,Fitness
+Protein Shake Type-27,Snack,133,27,1,4,Weight Loss
+Salad Type-28,Lunch,167,5,16,9,Weight Loss
+Almonds Type-29,Snack,172,7,1,10,Body Building
+Almonds Type-30,Snack,202,6,1,15,Muscle Gain
+Salad Type-31,Lunch,213,2,27,14,Fitness
+Almonds Type-32,Snack,122,7,14,10,Weight Loss
+Oatmeal Type-33,Breakfast,304,6,48,5,Weight Loss
+Chicken Breast Type-34,Lunch,362,43,0,7,Body Building
+Salad Type-35,Lunch,230,2,30,14,Fitness
+Chicken Breast Type-36,Lunch,441,40,0,5,Muscle Gain
+Steak Type-37,Dinner,750,53,9,39,Body Building
+Salad Type-38,Lunch,160,8,29,9,Muscle Gain
+Greek Yogurt Type-39,Snack,193,14,21,0,Muscle Gain
+Quinoa Bowl Type-40,Lunch,476,17,61,5,Weight Loss
+Salad Type-41,Lunch,195,4,12,12,Muscle Gain
+Greek Yogurt Type-42,Snack,143,16,19,2,Weight Loss
+Chicken Breast Type-43,Lunch,419,45,5,13,Muscle Gain
+Steak Type-44,Dinner,705,49,4,44,Muscle Gain
+Almonds Type-45,Snack,167,6,11,9,Body Building
+Eggs Type-46,Breakfast,258,19,0,18,Weight Loss
+Steak Type-47,Dinner,722,54,9,37,Weight Loss
+Salmon Type-48,Dinner,478,33,3,32,Weight Loss
+Almonds Type-49,Snack,198,2,0,11,Fitness
+Oatmeal Type-50,Breakfast,336,8,45,1,Weight Loss
+Protein Shake Type-51,Snack,125,26,0,0,Body Building
+Chicken Breast Type-52,Lunch,398,45,0,8,Muscle Gain
+Oatmeal Type-53,Breakfast,261,5,46,7,Muscle Gain
+Protein Shake Type-54,Snack,152,29,8,0,Weight Loss
+Quinoa Bowl Type-55,Lunch,433,19,63,7,Muscle Gain
+Greek Yogurt Type-56,Snack,167,10,13,6,Weight Loss
+Eggs Type-57,Breakfast,248,14,0,12,Body Building
+Quinoa Bowl Type-58,Lunch,406,18,65,13,Body Building
+Salad Type-59,Lunch,178,9,28,13,Fitness
+Protein Shake Type-60,Snack,129,30,5,5,Body Building
+Protein Shake Type-61,Snack,110,23,0,0,Body Building
+Chicken Breast Type-62,Lunch,370,43,8,11,Muscle Gain
+Steak Type-63,Dinner,654,47,2,37,Muscle Gain
+Protein Shake Type-64,Snack,196,23,9,4,Weight Loss
+Chicken Breast Type-65,Lunch,423,46,0,7,Weight Loss
+Protein Shake Type-66,Snack,162,26,5,1,Fitness
+Eggs Type-67,Breakfast,260,22,6,14,Body Building
+Salmon Type-68,Dinner,513,33,0,25,Muscle Gain
+Eggs Type-69,Breakfast,200,13,8,14,Body Building
+Almonds Type-70,Snack,198,9,6,10,Fitness
+Quinoa Bowl Type-71,Lunch,421,13,68,8,Fitness
+Chicken Breast Type-72,Lunch,431,50,1,14,Weight Loss
+Greek Yogurt Type-73,Snack,190,10,10,4,Fitness
+Oatmeal Type-74,Breakfast,325,11,58,8,Weight Loss
+Protein Shake Type-75,Snack,177,23,13,5,Muscle Gain
+Almonds Type-76,Snack,116,7,13,11,Muscle Gain
+Protein Shake Type-77,Snack,149,24,4,3,Muscle Gain
+Greek Yogurt Type-78,Snack,153,13,10,2,Muscle Gain
+Protein Shake Type-79,Snack,135,20,0,2,Weight Loss
+Almonds Type-80,Snack,192,3,11,17,Body Building
+Almonds Type-81,Snack,117,3,6,9,Fitness
+Chicken Breast Type-82,Lunch,420,48,0,5,Body Building
+Steak Type-83,Dinner,745,46,2,42,Body Building
+Steak Type-84,Dinner,735,46,0,38,Muscle Gain
+Greek Yogurt Type-85,Snack,192,17,20,5,Weight Loss
+Salad Type-86,Lunch,250,10,22,12,Muscle Gain
+Almonds Type-87,Snack,110,11,15,10,Fitness
+Oatmeal Type-88,Breakfast,262,12,57,7,Weight Loss
+Salad Type-89,Lunch,218,4,21,10,Body Building
+Eggs Type-90,Breakfast,205,18,5,20,Weight Loss
+Steak Type-91,Dinner,696,45,0,43,Fitness
+Oatmeal Type-92,Breakfast,262,8,52,8,Fitness
+Almonds Type-93,Snack,134,2,5,15,Fitness
+Salad Type-94,Lunch,234,3,11,5,Fitness
+Greek Yogurt Type-95,Snack,158,17,20,6,Fitness
+Steak Type-96,Dinner,750,52,1,39,Fitness
+Protein Shake Type-97,Snack,140,28,12,1,Body Building
+Eggs Type-98,Breakfast,220,14,0,17,Weight Loss
+Quinoa Bowl Type-99,Lunch,465,13,74,11,Weight Loss
+Almonds Type-100,Snack,156,7,10,11,Weight Loss
+Quinoa Bowl Type-101,Lunch,466,16,72,7,Body Building
+Chicken Breast Type-102,Lunch,397,44,0,12,Body Building
+Protein Shake Type-103,Snack,147,25,0,5,Muscle Gain
+Greek Yogurt Type-104,Snack,138,17,8,8,Muscle Gain
+Greek Yogurt Type-105,Snack,137,12,20,4,Muscle Gain
+Quinoa Bowl Type-106,Lunch,500,20,69,10,Body Building
+Greek Yogurt Type-107,Snack,205,20,6,0,Muscle Gain
+Greek Yogurt Type-108,Snack,229,11,11,8,Weight Loss
+Protein Shake Type-109,Snack,113,20,9,1,Muscle Gain
+Salmon Type-110,Dinner,528,36,10,34,Muscle Gain
+Quinoa Bowl Type-111,Lunch,442,12,79,13,Muscle Gain
+Salmon Type-112,Dinner,545,40,0,33,Fitness
+Greek Yogurt Type-113,Snack,154,11,12,3,Muscle Gain
+Salmon Type-114,Dinner,510,33,0,32,Fitness
+Salad Type-115,Lunch,246,4,29,13,Body Building
+Chicken Breast Type-116,Lunch,427,44,0,14,Body Building
+Salmon Type-117,Dinner,493,40,0,31,Body Building
+Salad Type-118,Lunch,175,2,23,5,Muscle Gain
+Quinoa Bowl Type-119,Lunch,409,13,77,8,Body Building
+Almonds Type-120,Snack,188,2,6,13,Body Building
+Oatmeal Type-121,Breakfast,258,7,53,4,Body Building
+Steak Type-122,Dinner,696,52,0,39,Muscle Gain
+Protein Shake Type-123,Snack,180,25,4,1,Weight Loss
+Quinoa Bowl Type-124,Lunch,408,13,62,14,Fitness
+Salmon Type-125,Dinner,450,34,0,30,Muscle Gain
+Protein Shake Type-126,Snack,152,21,10,7,Muscle Gain
+Oatmeal Type-127,Breakfast,253,11,49,10,Weight Loss
+Eggs Type-128,Breakfast,214,18,0,19,Body Building
+Oatmeal Type-129,Breakfast,253,12,42,10,Muscle Gain
+Eggs Type-130,Breakfast,233,17,0,11,Weight Loss
+Salad Type-131,Lunch,228,2,19,5,Weight Loss
+Oatmeal Type-132,Breakfast,330,6,41,6,Muscle Gain
+Protein Shake Type-133,Snack,131,24,0,0,Weight Loss
+Quinoa Bowl Type-134,Lunch,416,10,67,6,Fitness
+Salmon Type-135,Dinner,536,31,3,31,Body Building
+Oatmeal Type-136,Breakfast,296,12,40,3,Weight Loss
+Salmon Type-137,Dinner,533,33,4,33,Fitness
+Almonds Type-138,Snack,111,10,8,11,Muscle Gain
+Greek Yogurt Type-139,Snack,210,17,16,0,Weight Loss
+Chicken Breast Type-140,Lunch,435,46,0,8,Muscle Gain
+Protein Shake Type-141,Snack,131,29,0,1,Muscle Gain
+Salad Type-142,Lunch,223,9,28,7,Muscle Gain
+Salmon Type-143,Dinner,517,30,0,33,Body Building
+Greek Yogurt Type-144,Snack,217,14,19,8,Muscle Gain
+Chicken Breast Type-145,Lunch,444,48,5,5,Fitness
+Steak Type-146,Dinner,730,51,1,40,Weight Loss
+Salmon Type-147,Dinner,480,38,0,29,Weight Loss
+Greek Yogurt Type-148,Snack,199,11,22,0,Weight Loss
+Chicken Breast Type-149,Lunch,440,43,10,8,Body Building
+Oatmeal Type-150,Breakfast,254,7,46,1,Body Building
+Eggs Type-151,Breakfast,295,18,11,11,Weight Loss
+Almonds Type-152,Snack,180,8,0,9,Muscle Gain
+Salad Type-153,Lunch,190,2,19,14,Body Building
+Greek Yogurt Type-154,Snack,218,17,22,3,Muscle Gain
+Greek Yogurt Type-155,Snack,229,17,14,7,Fitness
+Protein Shake Type-156,Snack,197,24,3,0,Fitness
+Chicken Breast Type-157,Lunch,435,41,0,5,Muscle Gain
+Oatmeal Type-158,Breakfast,292,11,53,9,Muscle Gain
+Chicken Breast Type-159,Lunch,356,46,3,5,Weight Loss
+Almonds Type-160,Snack,192,4,4,13,Weight Loss
+Quinoa Bowl Type-161,Lunch,479,12,61,14,Weight Loss
+Greek Yogurt Type-162,Snack,215,10,12,4,Muscle Gain
+Almonds Type-163,Snack,204,11,0,17,Muscle Gain
+Steak Type-164,Dinner,741,51,5,43,Body Building
+Steak Type-165,Dinner,669,50,0,43,Weight Loss
+Chicken Breast Type-166,Lunch,439,49,0,6,Body Building
+Chicken Breast Type-167,Lunch,450,42,6,14,Fitness
+Salmon Type-168,Dinner,489,32,8,33,Weight Loss
+Eggs Type-169,Breakfast,248,13,0,13,Weight Loss
+Salad Type-170,Lunch,157,2,30,15,Muscle Gain
+Eggs Type-171,Breakfast,222,17,0,15,Body Building
+Greek Yogurt Type-172,Snack,157,14,8,2,Muscle Gain
+Oatmeal Type-173,Breakfast,311,14,57,5,Muscle Gain
+Quinoa Bowl Type-174,Lunch,417,19,71,13,Muscle Gain
+Almonds Type-175,Snack,161,2,0,10,Fitness
+Almonds Type-176,Snack,150,3,1,11,Muscle Gain
+Protein Shake Type-177,Snack,168,20,9,0,Muscle Gain
+Protein Shake Type-178,Snack,195,26,13,1,Body Building
+Almonds Type-179,Snack,136,2,3,18,Muscle Gain
+Salad Type-180,Lunch,153,7,25,11,Fitness
+Eggs Type-181,Breakfast,245,17,6,13,Weight Loss
+Salmon Type-182,Dinner,490,40,0,28,Weight Loss
+Eggs Type-183,Breakfast,203,17,4,12,Body Building
+Greek Yogurt Type-184,Snack,225,15,14,3,Body Building
+Oatmeal Type-185,Breakfast,320,13,47,5,Muscle Gain
+Oatmeal Type-186,Breakfast,321,13,49,10,Weight Loss
+Almonds Type-187,Snack,192,9,5,17,Muscle Gain
+Oatmeal Type-188,Breakfast,278,7,43,4,Body Building
+Steak Type-189,Dinner,718,52,0,40,Fitness
+Salad Type-190,Lunch,168,6,12,7,Body Building
+Salmon Type-191,Dinner,503,35,0,25,Body Building
+Salad Type-192,Lunch,150,8,20,11,Weight Loss
+Almonds Type-193,Snack,174,5,0,14,Muscle Gain
+Steak Type-194,Dinner,723,48,7,36,Fitness
+Steak Type-195,Dinner,719,55,9,41,Muscle Gain
+Protein Shake Type-196,Snack,114,29,12,0,Weight Loss
+Salmon Type-197,Dinner,450,35,2,27,Muscle Gain
+Protein Shake Type-198,Snack,147,24,1,3,Weight Loss
+Eggs Type-199,Breakfast,289,21,0,20,Body Building
+Salmon Type-200,Dinner,518,34,9,25,Body Building
+Oatmeal Type-201,Breakfast,295,9,50,10,Muscle Gain
+Steak Type-202,Dinner,659,45,0,45,Fitness
+Oatmeal Type-203,Breakfast,330,10,41,4,Muscle Gain
+Oatmeal Type-204,Breakfast,311,15,47,4,Fitness
+Almonds Type-205,Snack,157,5,0,12,Weight Loss
+Almonds Type-206,Snack,146,2,14,19,Weight Loss
+Steak Type-207,Dinner,713,51,0,45,Body Building
+Oatmeal Type-208,Breakfast,325,7,53,8,Body Building
+Quinoa Bowl Type-209,Lunch,461,14,67,5,Muscle Gain
+Chicken Breast Type-210,Lunch,424,43,0,5,Body Building
+Eggs Type-211,Breakfast,212,21,0,13,Muscle Gain
+Oatmeal Type-212,Breakfast,329,13,59,2,Fitness
+Almonds Type-213,Snack,126,10,0,13,Weight Loss
+Chicken Breast Type-214,Lunch,398,47,0,9,Body Building
+Salmon Type-215,Dinner,502,32,0,27,Muscle Gain
+Salad Type-216,Lunch,173,3,30,7,Fitness
+Protein Shake Type-217,Snack,167,26,14,3,Weight Loss
+Steak Type-218,Dinner,744,47,0,43,Fitness
+Greek Yogurt Type-219,Snack,137,17,19,0,Fitness
+Eggs Type-220,Breakfast,292,22,0,17,Muscle Gain
+Quinoa Bowl Type-221,Lunch,403,12,71,11,Muscle Gain
+Chicken Breast Type-222,Lunch,391,49,8,9,Fitness
+Protein Shake Type-223,Snack,180,28,12,3,Muscle Gain
+Protein Shake Type-224,Snack,181,29,0,0,Muscle Gain
+Almonds Type-225,Snack,201,3,13,11,Fitness
+Almonds Type-226,Snack,190,5,0,11,Weight Loss
+Chicken Breast Type-227,Lunch,397,44,0,11,Body Building
+Greek Yogurt Type-228,Snack,160,15,8,1,Body Building
+Almonds Type-229,Snack,127,6,5,10,Fitness
+Quinoa Bowl Type-230,Lunch,405,12,67,14,Body Building
+Protein Shake Type-231,Snack,141,30,0,5,Body Building
+Salad Type-232,Lunch,154,3,26,13,Fitness
+Quinoa Bowl Type-233,Lunch,456,20,68,12,Muscle Gain
+Greek Yogurt Type-234,Snack,150,14,12,4,Muscle Gain
+Salmon Type-235,Dinner,530,34,1,28,Fitness
+Almonds Type-236,Snack,112,8,0,12,Fitness
+Almonds Type-237,Snack,128,5,12,11,Body Building
+Steak Type-238,Dinner,733,49,1,43,Muscle Gain
+Chicken Breast Type-239,Lunch,381,50,0,8,Muscle Gain
+Eggs Type-240,Breakfast,261,13,1,14,Body Building
+Salmon Type-241,Dinner,542,39,1,32,Body Building
+Salmon Type-242,Dinner,541,37,4,27,Body Building
+Oatmeal Type-243,Breakfast,336,14,52,8,Fitness
+Salad Type-244,Lunch,151,8,17,6,Weight Loss
+Steak Type-245,Dinner,734,52,0,45,Muscle Gain
+Quinoa Bowl Type-246,Lunch,407,12,69,8,Fitness
+Almonds Type-247,Snack,155,2,8,10,Fitness
+Chicken Breast Type-248,Lunch,438,50,0,15,Weight Loss
+Steak Type-249,Dinner,687,53,10,42,Weight Loss
+Eggs Type-250,Breakfast,244,18,0,12,Body Building
+Eggs Type-251,Breakfast,251,14,0,14,Weight Loss
+Greek Yogurt Type-252,Snack,182,10,21,8,Muscle Gain
+Chicken Breast Type-253,Lunch,404,48,5,11,Weight Loss
+Quinoa Bowl Type-254,Lunch,430,14,60,11,Muscle Gain
+Oatmeal Type-255,Breakfast,345,13,54,10,Body Building
+Protein Shake Type-256,Snack,139,29,9,1,Weight Loss
+Protein Shake Type-257,Snack,158,23,0,4,Weight Loss
+Eggs Type-258,Breakfast,290,15,3,16,Weight Loss
+Oatmeal Type-259,Breakfast,330,15,54,8,Body Building
+Salad Type-260,Lunch,230,8,26,14,Weight Loss
+Salad Type-261,Lunch,165,9,19,11,Muscle Gain
+Eggs Type-262,Breakfast,237,14,11,15,Body Building
+Salmon Type-263,Dinner,515,31,3,29,Fitness
+Quinoa Bowl Type-264,Lunch,459,19,61,6,Fitness
+Oatmeal Type-265,Breakfast,347,15,42,7,Body Building
+Protein Shake Type-266,Snack,156,29,0,5,Body Building
+Steak Type-267,Dinner,749,45,6,41,Weight Loss
+Salmon Type-268,Dinner,488,38,1,30,Fitness
+Almonds Type-269,Snack,190,9,6,10,Body Building
+Salmon Type-270,Dinner,538,35,0,25,Fitness
+Oatmeal Type-271,Breakfast,280,13,58,6,Fitness
+Greek Yogurt Type-272,Snack,164,13,6,3,Fitness
+Oatmeal Type-273,Breakfast,260,8,54,3,Body Building
+Oatmeal Type-274,Breakfast,343,9,52,4,Muscle Gain
+Oatmeal Type-275,Breakfast,322,8,40,1,Body Building
+Oatmeal Type-276,Breakfast,348,9,59,10,Muscle Gain
+Almonds Type-277,Snack,195,8,3,13,Weight Loss
+Salmon Type-278,Dinner,486,39,0,25,Muscle Gain
+Oatmeal Type-279,Breakfast,316,8,49,4,Fitness
+Protein Shake Type-280,Snack,121,26,8,0,Muscle Gain
+Eggs Type-281,Breakfast,254,14,7,15,Muscle Gain
+Salad Type-282,Lunch,209,2,24,11,Fitness
+Chicken Breast Type-283,Lunch,416,45,2,11,Muscle Gain
+Salad Type-284,Lunch,186,4,20,10,Weight Loss
+Protein Shake Type-285,Snack,188,24,3,2,Muscle Gain
+Protein Shake Type-286,Snack,166,26,13,0,Muscle Gain
+Protein Shake Type-287,Snack,196,25,0,5,Weight Loss
+Quinoa Bowl Type-288,Lunch,479,10,63,10,Fitness
+Salad Type-289,Lunch,219,7,16,15,Fitness
+Steak Type-290,Dinner,677,50,1,37,Fitness
+Oatmeal Type-291,Breakfast,285,9,42,0,Weight Loss
+Almonds Type-292,Snack,118,7,15,9,Weight Loss
+Greek Yogurt Type-293,Snack,165,14,15,3,Fitness
+Protein Shake Type-294,Snack,118,21,0,3,Muscle Gain
+Almonds Type-295,Snack,179,10,2,13,Muscle Gain
+Almonds Type-296,Snack,163,6,4,10,Muscle Gain
+Quinoa Bowl Type-297,Lunch,401,15,70,14,Fitness
+Greek Yogurt Type-298,Snack,155,19,22,3,Body Building
+Almonds Type-299,Snack,190,2,0,13,Body Building
+Almonds Type-300,Snack,193,2,0,10,Weight Loss
+Salmon Type-301,Dinner,469,36,1,25,Muscle Gain
+Salad Type-302,Lunch,236,4,15,8,Weight Loss
+Greek Yogurt Type-303,Snack,181,20,10,8,Muscle Gain
+Eggs Type-304,Breakfast,258,18,0,14,Weight Loss
+Oatmeal Type-305,Breakfast,293,7,41,3,Body Building
+Oatmeal Type-306,Breakfast,307,6,58,5,Muscle Gain
+Almonds Type-307,Snack,127,6,4,15,Body Building
+Eggs Type-308,Breakfast,270,16,0,18,Weight Loss
+Salad Type-309,Lunch,193,4,12,15,Body Building
+Quinoa Bowl Type-310,Lunch,402,18,62,6,Muscle Gain
+Eggs Type-311,Breakfast,234,23,0,15,Fitness
+Salmon Type-312,Dinner,500,34,0,26,Fitness
+Almonds Type-313,Snack,194,2,0,16,Fitness
+Protein Shake Type-314,Snack,118,30,6,6,Weight Loss
+Steak Type-315,Dinner,704,54,10,39,Body Building
+Protein Shake Type-316,Snack,110,23,4,3,Fitness
+Eggs Type-317,Breakfast,215,17,0,14,Weight Loss
+Oatmeal Type-318,Breakfast,349,12,57,7,Body Building
+Steak Type-319,Dinner,664,53,0,36,Fitness
+Chicken Breast Type-320,Lunch,416,41,2,14,Muscle Gain
+Eggs Type-321,Breakfast,235,16,0,14,Weight Loss
+Eggs Type-322,Breakfast,210,16,4,19,Weight Loss
+Salad Type-323,Lunch,165,6,23,8,Fitness
+Greek Yogurt Type-324,Snack,185,18,3,8,Body Building
+Eggs Type-325,Breakfast,285,14,6,14,Fitness
+Steak Type-326,Dinner,720,47,4,44,Body Building
+Salmon Type-327,Dinner,524,38,8,32,Muscle Gain
+Greek Yogurt Type-328,Snack,201,13,16,7,Body Building
+Oatmeal Type-329,Breakfast,264,12,59,9,Body Building
+Salad Type-330,Lunch,249,2,26,8,Body Building
+Eggs Type-331,Breakfast,289,17,0,10,Weight Loss
+Salad Type-332,Lunch,162,7,10,5,Fitness
+Oatmeal Type-333,Breakfast,335,15,59,10,Muscle Gain
+Protein Shake Type-334,Snack,146,20,8,7,Fitness
+Oatmeal Type-335,Breakfast,268,8,51,8,Weight Loss
+Salad Type-336,Lunch,214,7,17,7,Weight Loss
+Steak Type-337,Dinner,708,52,0,44,Body Building
+Protein Shake Type-338,Snack,187,23,7,0,Body Building
+Quinoa Bowl Type-339,Lunch,415,16,75,8,Weight Loss
+Greek Yogurt Type-340,Snack,180,17,5,0,Weight Loss
+Salmon Type-341,Dinner,487,38,0,31,Weight Loss
+Salmon Type-342,Dinner,523,33,3,34,Weight Loss
+Eggs Type-343,Breakfast,292,22,1,12,Body Building
+Salmon Type-344,Dinner,544,39,2,29,Weight Loss
+Quinoa Bowl Type-345,Lunch,407,18,66,8,Body Building
+Chicken Breast Type-346,Lunch,413,41,4,15,Fitness
+Salmon Type-347,Dinner,504,32,1,33,Body Building
+Quinoa Bowl Type-348,Lunch,498,10,71,6,Muscle Gain
+Greek Yogurt Type-349,Snack,169,17,19,0,Muscle Gain
+Almonds Type-350,Snack,194,2,9,15,Weight Loss
+Almonds Type-351,Snack,116,2,11,18,Weight Loss
+Eggs Type-352,Breakfast,234,22,5,14,Body Building
+Eggs Type-353,Breakfast,220,16,11,11,Body Building
+Salad Type-354,Lunch,205,2,20,9,Weight Loss
+Salad Type-355,Lunch,165,5,22,12,Fitness
+Steak Type-356,Dinner,685,47,0,37,Muscle Gain
+Almonds Type-357,Snack,127,8,0,18,Fitness
+Oatmeal Type-358,Breakfast,294,6,42,5,Fitness
+Greek Yogurt Type-359,Snack,189,18,9,6,Body Building
+Salad Type-360,Lunch,223,5,12,11,Muscle Gain
+Greek Yogurt Type-361,Snack,158,11,9,5,Weight Loss
+Greek Yogurt Type-362,Snack,170,13,21,5,Muscle Gain
+Eggs Type-363,Breakfast,234,18,6,12,Body Building
+Eggs Type-364,Breakfast,266,14,8,19,Muscle Gain
+Protein Shake Type-365,Snack,176,30,0,0,Muscle Gain
+Salmon Type-366,Dinner,482,32,6,32,Muscle Gain
+Oatmeal Type-367,Breakfast,258,12,53,3,Fitness
+Eggs Type-368,Breakfast,269,18,5,10,Weight Loss
+Almonds Type-369,Snack,168,10,11,19,Muscle Gain
+Salad Type-370,Lunch,154,2,28,14,Body Building
+Eggs Type-371,Breakfast,256,19,2,14,Weight Loss
+Almonds Type-372,Snack,197,2,0,13,Weight Loss
+Oatmeal Type-373,Breakfast,267,9,47,7,Weight Loss
+Greek Yogurt Type-374,Snack,165,18,12,6,Fitness
+Protein Shake Type-375,Snack,167,24,0,0,Body Building
+Protein Shake Type-376,Snack,173,28,4,0,Weight Loss
+Salmon Type-377,Dinner,537,30,9,29,Fitness
+Salmon Type-378,Dinner,521,38,0,27,Body Building
+Almonds Type-379,Snack,192,5,11,10,Muscle Gain
+Oatmeal Type-380,Breakfast,308,6,58,5,Fitness
+Salad Type-381,Lunch,212,4,13,5,Weight Loss
+Greek Yogurt Type-382,Snack,135,13,3,1,Weight Loss
+Salmon Type-383,Dinner,521,34,2,28,Muscle Gain
+Greek Yogurt Type-384,Snack,186,10,16,3,Fitness
+Greek Yogurt Type-385,Snack,177,20,4,0,Fitness
+Salad Type-386,Lunch,174,3,11,9,Fitness
+Almonds Type-387,Snack,127,3,4,18,Muscle Gain
+Almonds Type-388,Snack,197,3,15,10,Fitness
+Quinoa Bowl Type-389,Lunch,483,12,68,5,Fitness
+Salad Type-390,Lunch,178,2,20,13,Body Building
+Oatmeal Type-391,Breakfast,254,7,56,0,Body Building
+Salmon Type-392,Dinner,478,32,8,35,Body Building
+Oatmeal Type-393,Breakfast,280,7,55,6,Weight Loss
+Steak Type-394,Dinner,721,51,7,38,Fitness
+Greek Yogurt Type-395,Snack,198,20,4,5,Muscle Gain
+Protein Shake Type-396,Snack,189,22,7,0,Weight Loss
+Oatmeal Type-397,Breakfast,294,6,42,8,Muscle Gain
+Quinoa Bowl Type-398,Lunch,427,15,62,10,Fitness
+Steak Type-399,Dinner,718,52,0,36,Muscle Gain
+Protein Shake Type-400,Snack,157,21,10,5,Weight Loss
+Chicken Breast Type-401,Lunch,421,40,0,6,Body Building
+Quinoa Bowl Type-402,Lunch,478,14,74,6,Fitness
+Salmon Type-403,Dinner,453,31,0,29,Body Building
+Greek Yogurt Type-404,Snack,226,20,14,8,Body Building
+Oatmeal Type-405,Breakfast,344,11,40,3,Fitness
+Eggs Type-406,Breakfast,274,16,4,20,Body Building
+Greek Yogurt Type-407,Snack,149,10,17,1,Fitness
+Quinoa Bowl Type-408,Lunch,461,13,72,10,Muscle Gain
+Eggs Type-409,Breakfast,238,15,3,13,Fitness
+Steak Type-410,Dinner,705,45,0,35,Fitness
+Quinoa Bowl Type-411,Lunch,461,20,77,9,Weight Loss
+Chicken Breast Type-412,Lunch,420,41,0,14,Fitness
+Quinoa Bowl Type-413,Lunch,414,20,68,10,Fitness
+Salmon Type-414,Dinner,499,39,0,33,Muscle Gain
+Steak Type-415,Dinner,711,52,0,41,Fitness
+Salmon Type-416,Dinner,490,40,3,25,Weight Loss
+Oatmeal Type-417,Breakfast,273,10,45,5,Fitness
+Almonds Type-418,Snack,115,6,15,14,Body Building
+Quinoa Bowl Type-419,Lunch,412,12,68,12,Fitness
+Greek Yogurt Type-420,Snack,173,17,9,2,Fitness
+Salmon Type-421,Dinner,476,37,4,33,Muscle Gain
+Salad Type-422,Lunch,169,2,12,5,Weight Loss
+Protein Shake Type-423,Snack,193,21,1,3,Muscle Gain
+Steak Type-424,Dinner,676,51,0,35,Body Building
+Salmon Type-425,Dinner,454,35,0,33,Muscle Gain
+Oatmeal Type-426,Breakfast,289,14,43,0,Body Building
+Eggs Type-427,Breakfast,286,14,7,18,Weight Loss
+Protein Shake Type-428,Snack,121,27,11,0,Muscle Gain
+Almonds Type-429,Snack,119,2,12,10,Body Building
+Steak Type-430,Dinner,677,55,10,41,Muscle Gain
+Salad Type-431,Lunch,157,6,15,9,Muscle Gain
+Almonds Type-432,Snack,110,10,0,12,Muscle Gain
+Oatmeal Type-433,Breakfast,316,5,46,5,Weight Loss
+Eggs Type-434,Breakfast,273,23,0,18,Muscle Gain
+Steak Type-435,Dinner,669,51,0,37,Muscle Gain
+Chicken Breast Type-436,Lunch,430,49,0,9,Fitness
+Steak Type-437,Dinner,719,46,1,42,Weight Loss
+Salad Type-438,Lunch,237,5,12,5,Weight Loss
+Salad Type-439,Lunch,225,8,29,15,Body Building
+Oatmeal Type-440,Breakfast,325,8,48,1,Fitness
+Greek Yogurt Type-441,Snack,185,13,4,0,Weight Loss
+Salad Type-442,Lunch,197,2,26,12,Weight Loss
+Salad Type-443,Lunch,211,6,22,11,Body Building
+Quinoa Bowl Type-444,Lunch,467,14,67,9,Muscle Gain
+Steak Type-445,Dinner,703,49,0,38,Fitness
+Oatmeal Type-446,Breakfast,273,13,45,9,Weight Loss
+Salad Type-447,Lunch,241,5,11,14,Fitness
+Almonds Type-448,Snack,137,10,7,12,Weight Loss
+Oatmeal Type-449,Breakfast,267,9,44,1,Fitness
+Greek Yogurt Type-450,Snack,205,16,8,8,Weight Loss
+Salad Type-451,Lunch,233,9,16,11,Weight Loss
+Oatmeal Type-452,Breakfast,256,14,52,6,Fitness
+Greek Yogurt Type-453,Snack,136,15,10,7,Muscle Gain
+Oatmeal Type-454,Breakfast,285,8,53,9,Muscle Gain
+Chicken Breast Type-455,Lunch,393,42,10,15,Body Building
+Greek Yogurt Type-456,Snack,171,15,20,8,Body Building
+Eggs Type-457,Breakfast,251,22,0,19,Body Building
+Salad Type-458,Lunch,236,4,29,9,Weight Loss
+Steak Type-459,Dinner,676,55,10,43,Muscle Gain
+Protein Shake Type-460,Snack,102,24,0,1,Fitness
+Protein Shake Type-461,Snack,148,24,11,1,Muscle Gain
+Salmon Type-462,Dinner,475,30,5,33,Weight Loss
+Protein Shake Type-463,Snack,172,20,4,6,Muscle Gain
+Chicken Breast Type-464,Lunch,402,45,0,6,Fitness
+Greek Yogurt Type-465,Snack,185,10,16,0,Body Building
+Protein Shake Type-466,Snack,190,21,0,1,Body Building
+Protein Shake Type-467,Snack,188,24,0,0,Weight Loss
+Salmon Type-468,Dinner,450,37,0,33,Fitness
+Almonds Type-469,Snack,193,9,8,9,Weight Loss
+Steak Type-470,Dinner,745,52,0,41,Weight Loss
+Quinoa Bowl Type-471,Lunch,438,16,78,14,Fitness
+Oatmeal Type-472,Breakfast,291,5,48,5,Body Building
+Protein Shake Type-473,Snack,146,20,13,5,Muscle Gain
+Oatmeal Type-474,Breakfast,258,13,56,4,Muscle Gain
+Eggs Type-475,Breakfast,226,17,0,12,Muscle Gain
+Greek Yogurt Type-476,Snack,187,14,10,7,Muscle Gain
+Protein Shake Type-477,Snack,171,27,1,0,Muscle Gain
+Greek Yogurt Type-478,Snack,137,11,2,4,Fitness
+Salad Type-479,Lunch,240,10,26,9,Body Building
+Quinoa Bowl Type-480,Lunch,429,10,67,12,Muscle Gain
+Almonds Type-481,Snack,209,10,6,19,Weight Loss
+Almonds Type-482,Snack,146,8,12,12,Muscle Gain
+Steak Type-483,Dinner,652,48,0,41,Muscle Gain
+Steak Type-484,Dinner,673,51,0,42,Muscle Gain
+Chicken Breast Type-485,Lunch,392,42,10,10,Fitness
+Salad Type-486,Lunch,185,10,20,8,Weight Loss
+Salmon Type-487,Dinner,540,38,0,34,Weight Loss
+Protein Shake Type-488,Snack,123,29,12,2,Muscle Gain
+Salad Type-489,Lunch,241,8,23,6,Fitness
+Greek Yogurt Type-490,Snack,182,17,12,2,Fitness
+Steak Type-491,Dinner,690,54,0,37,Fitness
+Eggs Type-492,Breakfast,245,21,0,15,Weight Loss
+Oatmeal Type-493,Breakfast,258,12,58,4,Weight Loss
+Steak Type-494,Dinner,654,54,6,44,Muscle Gain
+Protein Shake Type-495,Snack,172,25,2,2,Body Building
+Quinoa Bowl Type-496,Lunch,459,14,80,6,Fitness
+Protein Shake Type-497,Snack,107,28,0,0,Weight Loss
+Steak Type-498,Dinner,737,50,5,36,Muscle Gain
+Steak Type-499,Dinner,668,45,0,37,Fitness
+Quinoa Bowl Type-500,Lunch,406,10,78,15,Fitness
+Eggs Type-501,Breakfast,266,20,0,12,Weight Loss
+Greek Yogurt Type-502,Snack,142,20,18,3,Muscle Gain
+Oatmeal Type-503,Breakfast,320,11,55,8,Weight Loss
+Salad Type-504,Lunch,164,7,15,12,Weight Loss
+Salad Type-505,Lunch,181,10,24,13,Body Building
+Quinoa Bowl Type-506,Lunch,479,12,71,9,Fitness
+Quinoa Bowl Type-507,Lunch,416,12,73,7,Fitness
+Quinoa Bowl Type-508,Lunch,419,15,65,11,Body Building
+Oatmeal Type-509,Breakfast,257,9,48,1,Weight Loss
+Greek Yogurt Type-510,Snack,135,16,12,0,Weight Loss
+Chicken Breast Type-511,Lunch,352,43,0,15,Fitness
+Protein Shake Type-512,Snack,200,23,9,4,Weight Loss
+Quinoa Bowl Type-513,Lunch,427,14,73,5,Body Building
+Oatmeal Type-514,Breakfast,309,14,53,2,Fitness
+Salmon Type-515,Dinner,451,40,0,28,Fitness
+Salad Type-516,Lunch,238,10,10,12,Fitness
+Steak Type-517,Dinner,681,54,3,38,Body Building
+Steak Type-518,Dinner,651,54,10,45,Body Building
+Quinoa Bowl Type-519,Lunch,424,11,80,6,Fitness
+Almonds Type-520,Snack,158,2,0,15,Body Building
+Salad Type-521,Lunch,209,10,28,8,Body Building
+Greek Yogurt Type-522,Snack,159,12,10,2,Weight Loss
+Eggs Type-523,Breakfast,276,22,0,11,Body Building
+Quinoa Bowl Type-524,Lunch,493,20,60,14,Fitness
+Salad Type-525,Lunch,181,2,23,15,Weight Loss
+Eggs Type-526,Breakfast,268,22,0,16,Muscle Gain
+Salad Type-527,Lunch,156,10,20,8,Body Building
+Eggs Type-528,Breakfast,210,14,12,19,Muscle Gain
+Chicken Breast Type-529,Lunch,369,44,3,6,Body Building
+Salad Type-530,Lunch,150,2,12,13,Weight Loss
+Greek Yogurt Type-531,Snack,196,17,19,1,Muscle Gain
+Protein Shake Type-532,Snack,188,20,9,3,Weight Loss
+Chicken Breast Type-533,Lunch,431,46,7,14,Fitness
+Salad Type-534,Lunch,220,8,12,5,Weight Loss
+Salmon Type-535,Dinner,464,38,1,34,Muscle Gain
+Eggs Type-536,Breakfast,231,21,2,13,Muscle Gain
+Steak Type-537,Dinner,699,47,6,45,Body Building
+Eggs Type-538,Breakfast,227,19,0,13,Body Building
+Salad Type-539,Lunch,197,5,22,9,Muscle Gain
+Almonds Type-540,Snack,124,8,4,19,Muscle Gain
+Oatmeal Type-541,Breakfast,349,8,47,4,Weight Loss
+Almonds Type-542,Snack,208,6,16,11,Weight Loss
+Quinoa Bowl Type-543,Lunch,455,10,80,15,Body Building
+Greek Yogurt Type-544,Snack,204,19,11,0,Fitness
+Greek Yogurt Type-545,Snack,134,17,20,0,Fitness
+Greek Yogurt Type-546,Snack,225,13,22,5,Weight Loss
+Protein Shake Type-547,Snack,108,29,9,6,Body Building
+Quinoa Bowl Type-548,Lunch,434,15,63,9,Fitness
+Quinoa Bowl Type-549,Lunch,407,11,69,8,Weight Loss
+Greek Yogurt Type-550,Snack,204,16,4,8,Fitness
+Oatmeal Type-551,Breakfast,257,7,40,1,Weight Loss
+Oatmeal Type-552,Breakfast,295,10,43,6,Muscle Gain
+Protein Shake Type-553,Snack,129,22,0,0,Body Building
+Greek Yogurt Type-554,Snack,169,17,7,4,Weight Loss
+Greek Yogurt Type-555,Snack,230,15,9,6,Weight Loss
+Eggs Type-556,Breakfast,264,20,0,18,Weight Loss
+Quinoa Bowl Type-557,Lunch,479,12,67,8,Weight Loss
+Protein Shake Type-558,Snack,200,27,5,0,Fitness
+Steak Type-559,Dinner,708,47,5,44,Fitness
+Greek Yogurt Type-560,Snack,142,15,13,0,Fitness
+Quinoa Bowl Type-561,Lunch,472,14,79,7,Body Building
+Almonds Type-562,Snack,140,3,6,18,Weight Loss
+Quinoa Bowl Type-563,Lunch,464,16,66,11,Weight Loss
+Salad Type-564,Lunch,213,9,25,9,Body Building
+Eggs Type-565,Breakfast,280,15,0,10,Muscle Gain
+Quinoa Bowl Type-566,Lunch,446,13,66,5,Body Building
+Eggs Type-567,Breakfast,278,21,0,14,Muscle Gain
+Chicken Breast Type-568,Lunch,409,42,0,11,Muscle Gain
+Greek Yogurt Type-569,Snack,219,11,2,0,Fitness
+Eggs Type-570,Breakfast,202,13,0,20,Fitness
+Oatmeal Type-571,Breakfast,341,6,48,9,Body Building
+Greek Yogurt Type-572,Snack,159,15,15,8,Muscle Gain
+Oatmeal Type-573,Breakfast,269,9,53,7,Muscle Gain
+Quinoa Bowl Type-574,Lunch,478,17,61,6,Muscle Gain
+Oatmeal Type-575,Breakfast,254,8,49,0,Body Building
+Steak Type-576,Dinner,661,45,0,35,Body Building
+Steak Type-577,Dinner,707,54,0,42,Body Building
+Quinoa Bowl Type-578,Lunch,487,17,80,9,Muscle Gain
+Steak Type-579,Dinner,744,52,8,36,Weight Loss
+Almonds Type-580,Snack,174,10,12,19,Fitness
+Protein Shake Type-581,Snack,126,20,3,2,Body Building
+Quinoa Bowl Type-582,Lunch,407,19,68,7,Body Building
+Chicken Breast Type-583,Lunch,421,41,7,7,Muscle Gain
+Salad Type-584,Lunch,172,2,10,9,Muscle Gain
+Eggs Type-585,Breakfast,256,13,3,19,Muscle Gain
+Chicken Breast Type-586,Lunch,436,44,0,5,Muscle Gain
+Chicken Breast Type-587,Lunch,440,47,3,6,Muscle Gain
+Almonds Type-588,Snack,201,4,0,9,Body Building
+Salad Type-589,Lunch,159,6,26,6,Fitness
+Steak Type-590,Dinner,716,55,0,38,Body Building
+Almonds Type-591,Snack,179,7,14,19,Body Building
+Greek Yogurt Type-592,Snack,167,20,21,0,Muscle Gain
+Chicken Breast Type-593,Lunch,381,50,4,13,Weight Loss
+Protein Shake Type-594,Snack,100,25,2,5,Fitness
+Steak Type-595,Dinner,726,48,3,45,Weight Loss
+Oatmeal Type-596,Breakfast,275,12,60,6,Body Building
+Salad Type-597,Lunch,162,2,16,12,Weight Loss
+Greek Yogurt Type-598,Snack,201,11,14,2,Weight Loss
+Oatmeal Type-599,Breakfast,339,9,57,4,Muscle Gain
+Quinoa Bowl Type-600,Lunch,476,20,62,9,Weight Loss
+Quinoa Bowl Type-601,Lunch,458,18,70,5,Weight Loss
+Eggs Type-602,Breakfast,216,18,4,12,Muscle Gain
+Salad Type-603,Lunch,185,3,16,7,Muscle Gain
+Steak Type-604,Dinner,702,49,10,40,Fitness
+Salad Type-605,Lunch,229,5,19,15,Fitness
+Eggs Type-606,Breakfast,234,23,3,13,Weight Loss
+Eggs Type-607,Breakfast,221,16,2,10,Fitness
+Salad Type-608,Lunch,157,2,28,9,Fitness
+Protein Shake Type-609,Snack,185,27,0,0,Fitness
+Quinoa Bowl Type-610,Lunch,462,18,80,11,Muscle Gain
+Protein Shake Type-611,Snack,128,29,12,6,Weight Loss
+Chicken Breast Type-612,Lunch,374,50,0,12,Body Building
+Oatmeal Type-613,Breakfast,326,9,45,0,Weight Loss
+Almonds Type-614,Snack,185,10,14,9,Fitness
+Salad Type-615,Lunch,173,3,29,7,Weight Loss
+Almonds Type-616,Snack,173,2,0,10,Muscle Gain
+Eggs Type-617,Breakfast,292,16,0,17,Fitness
+Quinoa Bowl Type-618,Lunch,448,14,77,9,Body Building
+Salmon Type-619,Dinner,501,38,0,31,Weight Loss
+Eggs Type-620,Breakfast,287,21,7,13,Fitness
+Steak Type-621,Dinner,709,50,5,45,Muscle Gain
+Salmon Type-622,Dinner,466,36,0,27,Weight Loss
+Steak Type-623,Dinner,650,49,6,36,Fitness
+Quinoa Bowl Type-624,Lunch,449,10,65,12,Body Building
+Salad Type-625,Lunch,214,2,26,13,Weight Loss
+Quinoa Bowl Type-626,Lunch,439,13,61,15,Muscle Gain
+Almonds Type-627,Snack,122,6,14,10,Weight Loss
+Eggs Type-628,Breakfast,215,19,11,18,Muscle Gain
+Oatmeal Type-629,Breakfast,263,11,56,8,Body Building
+Salad Type-630,Lunch,236,10,20,6,Body Building
+Oatmeal Type-631,Breakfast,340,11,46,6,Fitness
+Greek Yogurt Type-632,Snack,133,13,12,2,Weight Loss
+Eggs Type-633,Breakfast,257,18,7,20,Fitness
+Salmon Type-634,Dinner,488,33,0,28,Muscle Gain
+Protein Shake Type-635,Snack,137,30,5,6,Fitness
+Oatmeal Type-636,Breakfast,250,8,40,2,Body Building
+Almonds Type-637,Snack,137,4,0,13,Muscle Gain
+Greek Yogurt Type-638,Snack,192,12,8,2,Body Building
+Salad Type-639,Lunch,234,8,19,10,Muscle Gain
+Protein Shake Type-640,Snack,171,22,3,0,Fitness
+Protein Shake Type-641,Snack,134,20,6,0,Muscle Gain
+Oatmeal Type-642,Breakfast,322,15,60,10,Muscle Gain
+Greek Yogurt Type-643,Snack,136,11,21,7,Fitness
+Salmon Type-644,Dinner,532,32,0,26,Fitness
+Quinoa Bowl Type-645,Lunch,497,16,63,9,Body Building
+Salmon Type-646,Dinner,475,32,10,28,Muscle Gain
+Chicken Breast Type-647,Lunch,356,45,8,6,Fitness
+Eggs Type-648,Breakfast,248,17,6,15,Body Building
+Almonds Type-649,Snack,127,4,1,16,Weight Loss
+Almonds Type-650,Snack,191,4,3,16,Weight Loss
+Salmon Type-651,Dinner,469,37,0,25,Muscle Gain
+Salmon Type-652,Dinner,505,37,0,32,Fitness
+Protein Shake Type-653,Snack,172,25,5,0,Muscle Gain
+Protein Shake Type-654,Snack,199,21,0,0,Weight Loss
+Oatmeal Type-655,Breakfast,350,15,52,0,Muscle Gain
+Salad Type-656,Lunch,155,2,19,8,Body Building
+Protein Shake Type-657,Snack,185,25,7,6,Body Building
+Steak Type-658,Dinner,697,48,3,45,Muscle Gain
+Salad Type-659,Lunch,183,5,13,13,Body Building
+Salmon Type-660,Dinner,469,36,0,35,Weight Loss
+Quinoa Bowl Type-661,Lunch,409,13,60,5,Body Building
+Salad Type-662,Lunch,156,6,20,9,Body Building
+Steak Type-663,Dinner,710,52,1,35,Body Building
+Chicken Breast Type-664,Lunch,355,48,4,7,Weight Loss
+Salmon Type-665,Dinner,486,39,7,31,Muscle Gain
+Chicken Breast Type-666,Lunch,438,41,0,6,Muscle Gain
+Oatmeal Type-667,Breakfast,341,12,51,9,Fitness
+Greek Yogurt Type-668,Snack,224,20,2,0,Weight Loss
+Oatmeal Type-669,Breakfast,327,14,53,10,Body Building
+Oatmeal Type-670,Breakfast,329,14,48,2,Body Building
+Almonds Type-671,Snack,210,6,0,12,Muscle Gain
+Quinoa Bowl Type-672,Lunch,454,20,60,12,Body Building
+Salad Type-673,Lunch,175,8,23,5,Fitness
+Steak Type-674,Dinner,668,53,6,37,Fitness
+Steak Type-675,Dinner,669,50,10,36,Weight Loss
+Salad Type-676,Lunch,227,6,27,13,Fitness
+Almonds Type-677,Snack,167,7,11,10,Weight Loss
+Salad Type-678,Lunch,157,2,28,5,Fitness
+Chicken Breast Type-679,Lunch,427,43,3,7,Weight Loss
+Almonds Type-680,Snack,162,6,13,14,Body Building
+Salmon Type-681,Dinner,479,30,9,27,Muscle Gain
+Greek Yogurt Type-682,Snack,204,10,10,8,Body Building
+Quinoa Bowl Type-683,Lunch,419,20,79,6,Muscle Gain
+Eggs Type-684,Breakfast,259,22,0,13,Body Building
+Oatmeal Type-685,Breakfast,295,11,40,2,Body Building
+Quinoa Bowl Type-686,Lunch,483,19,72,11,Fitness
+Eggs Type-687,Breakfast,227,14,3,18,Fitness
+Salad Type-688,Lunch,162,4,22,14,Weight Loss
+Quinoa Bowl Type-689,Lunch,484,11,76,9,Body Building
+Protein Shake Type-690,Snack,111,26,6,0,Body Building
+Quinoa Bowl Type-691,Lunch,407,10,68,15,Muscle Gain
+Steak Type-692,Dinner,658,49,1,42,Fitness
+Eggs Type-693,Breakfast,200,21,1,20,Body Building
+Greek Yogurt Type-694,Snack,219,13,14,2,Fitness
+Salad Type-695,Lunch,194,5,29,12,Fitness
+Eggs Type-696,Breakfast,263,15,0,10,Body Building
+Oatmeal Type-697,Breakfast,274,10,44,7,Muscle Gain
+Protein Shake Type-698,Snack,103,27,15,4,Body Building
+Eggs Type-699,Breakfast,281,17,0,13,Weight Loss
+Eggs Type-700,Breakfast,259,21,7,15,Weight Loss
+Almonds Type-701,Snack,206,2,7,10,Muscle Gain
+Salmon Type-702,Dinner,512,38,7,32,Weight Loss
+Chicken Breast Type-703,Lunch,414,45,6,14,Fitness
+Almonds Type-704,Snack,136,5,5,19,Body Building
+Oatmeal Type-705,Breakfast,333,12,40,10,Body Building
+Quinoa Bowl Type-706,Lunch,491,13,78,7,Weight Loss
+Salmon Type-707,Dinner,499,38,0,28,Weight Loss
+Salmon Type-708,Dinner,501,30,0,34,Fitness
+Protein Shake Type-709,Snack,186,26,14,4,Weight Loss
+Salmon Type-710,Dinner,484,35,5,26,Muscle Gain
+Oatmeal Type-711,Breakfast,278,8,54,7,Fitness
+Protein Shake Type-712,Snack,164,22,0,0,Muscle Gain
+Oatmeal Type-713,Breakfast,285,8,55,9,Weight Loss
+Greek Yogurt Type-714,Snack,131,13,18,0,Muscle Gain
+Greek Yogurt Type-715,Snack,171,17,9,1,Fitness
+Almonds Type-716,Snack,138,6,11,13,Fitness
+Greek Yogurt Type-717,Snack,161,14,12,0,Fitness
+Salad Type-718,Lunch,192,10,17,9,Muscle Gain
+Chicken Breast Type-719,Lunch,438,41,10,7,Weight Loss
+Oatmeal Type-720,Breakfast,263,6,43,10,Muscle Gain
+Eggs Type-721,Breakfast,237,16,0,15,Weight Loss
+Chicken Breast Type-722,Lunch,398,42,7,8,Fitness
+Quinoa Bowl Type-723,Lunch,433,20,61,11,Body Building
+Salad Type-724,Lunch,150,4,18,10,Muscle Gain
+Eggs Type-725,Breakfast,222,14,12,19,Fitness
+Quinoa Bowl Type-726,Lunch,433,20,61,11,Fitness
+Eggs Type-727,Breakfast,235,15,9,20,Fitness
+Almonds Type-728,Snack,175,2,0,14,Body Building
+Salmon Type-729,Dinner,458,36,0,32,Fitness
+Salmon Type-730,Dinner,508,37,9,26,Weight Loss
+Steak Type-731,Dinner,685,49,9,43,Weight Loss
+Chicken Breast Type-732,Lunch,429,42,1,9,Muscle Gain
+Protein Shake Type-733,Snack,159,22,2,0,Weight Loss
+Salmon Type-734,Dinner,464,33,3,34,Muscle Gain
+Greek Yogurt Type-735,Snack,152,17,16,5,Weight Loss
+Eggs Type-736,Breakfast,253,21,10,12,Weight Loss
+Protein Shake Type-737,Snack,200,26,0,6,Fitness
+Salad Type-738,Lunch,205,9,10,12,Fitness
+Almonds Type-739,Snack,165,9,15,14,Muscle Gain
+Protein Shake Type-740,Snack,187,30,0,4,Muscle Gain
+Oatmeal Type-741,Breakfast,321,14,42,2,Muscle Gain
+Greek Yogurt Type-742,Snack,141,17,12,0,Muscle Gain
+Almonds Type-743,Snack,134,3,3,14,Body Building
+Eggs Type-744,Breakfast,299,21,1,16,Body Building
+Quinoa Bowl Type-745,Lunch,448,20,75,15,Body Building
+Almonds Type-746,Snack,130,5,0,15,Muscle Gain
+Greek Yogurt Type-747,Snack,175,19,3,0,Body Building
+Salmon Type-748,Dinner,469,31,8,33,Muscle Gain
+Oatmeal Type-749,Breakfast,288,5,46,0,Body Building
+Chicken Breast Type-750,Lunch,399,45,2,15,Body Building
+Oatmeal Type-751,Breakfast,341,8,56,4,Muscle Gain
+Quinoa Bowl Type-752,Lunch,444,20,75,13,Fitness
+Chicken Breast Type-753,Lunch,418,40,3,13,Fitness
+Salmon Type-754,Dinner,534,36,0,29,Weight Loss
+Steak Type-755,Dinner,669,45,0,42,Body Building
+Oatmeal Type-756,Breakfast,268,7,58,6,Weight Loss
+Salmon Type-757,Dinner,489,39,8,32,Fitness
+Quinoa Bowl Type-758,Lunch,434,17,64,11,Muscle Gain
+Oatmeal Type-759,Breakfast,290,11,53,0,Muscle Gain
+Oatmeal Type-760,Breakfast,296,11,51,10,Weight Loss
+Steak Type-761,Dinner,730,45,3,35,Weight Loss
+Almonds Type-762,Snack,197,10,13,10,Muscle Gain
+Salmon Type-763,Dinner,450,33,3,27,Body Building
+Steak Type-764,Dinner,743,47,0,36,Weight Loss
+Greek Yogurt Type-765,Snack,139,20,16,5,Muscle Gain
+Chicken Breast Type-766,Lunch,415,44,0,12,Weight Loss
+Greek Yogurt Type-767,Snack,131,12,14,6,Fitness
+Almonds Type-768,Snack,184,7,4,16,Muscle Gain
+Eggs Type-769,Breakfast,283,21,0,19,Weight Loss
+Chicken Breast Type-770,Lunch,435,45,0,10,Body Building
+Salad Type-771,Lunch,160,4,10,8,Fitness
+Chicken Breast Type-772,Lunch,351,50,4,12,Muscle Gain
+Chicken Breast Type-773,Lunch,390,49,9,10,Fitness
+Greek Yogurt Type-774,Snack,140,16,11,7,Body Building
+Salad Type-775,Lunch,151,9,29,10,Body Building
+Oatmeal Type-776,Breakfast,268,7,53,0,Muscle Gain
+Quinoa Bowl Type-777,Lunch,441,17,61,5,Muscle Gain
+Chicken Breast Type-778,Lunch,407,42,6,5,Fitness
+Steak Type-779,Dinner,712,46,0,37,Weight Loss
+Salad Type-780,Lunch,159,4,26,11,Body Building
+Greek Yogurt Type-781,Snack,224,12,19,1,Weight Loss
+Quinoa Bowl Type-782,Lunch,400,18,70,12,Body Building
+Greek Yogurt Type-783,Snack,157,20,4,8,Muscle Gain
+Eggs Type-784,Breakfast,232,17,0,19,Body Building
+Oatmeal Type-785,Breakfast,280,13,43,0,Body Building
+Salad Type-786,Lunch,155,5,11,9,Weight Loss
+Salad Type-787,Lunch,209,2,23,11,Body Building
+Eggs Type-788,Breakfast,292,23,0,12,Weight Loss
+Steak Type-789,Dinner,743,48,6,36,Muscle Gain
+Protein Shake Type-790,Snack,112,30,0,0,Body Building
+Salad Type-791,Lunch,230,5,17,13,Body Building
+Chicken Breast Type-792,Lunch,409,47,9,14,Fitness
+Protein Shake Type-793,Snack,159,27,13,5,Body Building
+Greek Yogurt Type-794,Snack,162,10,22,4,Body Building
+Protein Shake Type-795,Snack,149,23,10,7,Weight Loss
+Chicken Breast Type-796,Lunch,447,46,0,15,Weight Loss
+Protein Shake Type-797,Snack,179,23,0,0,Fitness
+Quinoa Bowl Type-798,Lunch,434,16,72,9,Fitness
+Almonds Type-799,Snack,141,11,0,16,Muscle Gain
+Chicken Breast Type-800,Lunch,384,44,1,7,Muscle Gain
+Protein Shake Type-801,Snack,149,20,10,4,Body Building
+Salad Type-802,Lunch,218,4,17,10,Muscle Gain
+Salmon Type-803,Dinner,516,35,0,25,Fitness
+Eggs Type-804,Breakfast,245,18,5,20,Fitness
+Steak Type-805,Dinner,704,48,6,42,Weight Loss
+Eggs Type-806,Breakfast,222,16,0,12,Weight Loss
+Oatmeal Type-807,Breakfast,307,11,40,10,Weight Loss
+Eggs Type-808,Breakfast,226,23,0,18,Weight Loss
+Greek Yogurt Type-809,Snack,172,17,21,0,Fitness
+Protein Shake Type-810,Snack,126,22,0,5,Fitness
+Salmon Type-811,Dinner,520,37,7,31,Muscle Gain
+Salmon Type-812,Dinner,462,37,10,31,Weight Loss
+Quinoa Bowl Type-813,Lunch,487,16,72,9,Fitness
+Oatmeal Type-814,Breakfast,314,7,52,2,Fitness
+Salad Type-815,Lunch,167,3,13,9,Muscle Gain
+Greek Yogurt Type-816,Snack,159,14,16,7,Fitness
+Salad Type-817,Lunch,249,4,17,8,Body Building
+Almonds Type-818,Snack,186,5,0,16,Muscle Gain
+Salmon Type-819,Dinner,461,34,3,33,Weight Loss
+Almonds Type-820,Snack,118,11,3,15,Body Building
+Protein Shake Type-821,Snack,121,26,6,6,Weight Loss
+Greek Yogurt Type-822,Snack,179,12,11,4,Weight Loss
+Protein Shake Type-823,Snack,140,27,11,4,Weight Loss
+Eggs Type-824,Breakfast,266,20,4,12,Body Building
+Protein Shake Type-825,Snack,142,26,3,0,Body Building
+Almonds Type-826,Snack,159,2,6,16,Weight Loss
+Oatmeal Type-827,Breakfast,293,14,59,5,Weight Loss
+Salmon Type-828,Dinner,455,40,8,27,Fitness
+Salmon Type-829,Dinner,472,37,10,34,Body Building
+Quinoa Bowl Type-830,Lunch,447,13,72,10,Weight Loss
+Steak Type-831,Dinner,748,48,0,40,Body Building
+Almonds Type-832,Snack,187,11,0,13,Body Building
+Chicken Breast Type-833,Lunch,397,47,5,5,Fitness
+Eggs Type-834,Breakfast,299,14,11,15,Weight Loss
+Almonds Type-835,Snack,149,4,3,12,Weight Loss
+Greek Yogurt Type-836,Snack,208,10,7,5,Muscle Gain
+Quinoa Bowl Type-837,Lunch,470,11,70,11,Body Building
+Protein Shake Type-838,Snack,131,24,9,0,Body Building
+Salmon Type-839,Dinner,481,37,9,31,Weight Loss
+Almonds Type-840,Snack,156,4,5,10,Weight Loss
+Almonds Type-841,Snack,189,6,0,16,Body Building
+Steak Type-842,Dinner,725,46,0,40,Weight Loss
+Eggs Type-843,Breakfast,224,22,0,15,Muscle Gain
+Chicken Breast Type-844,Lunch,360,42,4,13,Body Building
+Greek Yogurt Type-845,Snack,189,10,8,6,Weight Loss
+Chicken Breast Type-846,Lunch,359,49,9,9,Body Building
+Almonds Type-847,Snack,156,2,15,19,Fitness
+Chicken Breast Type-848,Lunch,428,47,0,9,Weight Loss
+Eggs Type-849,Breakfast,218,19,11,11,Body Building
+Quinoa Bowl Type-850,Lunch,472,16,67,6,Muscle Gain
+Eggs Type-851,Breakfast,275,18,5,16,Weight Loss
+Greek Yogurt Type-852,Snack,140,19,4,5,Fitness
+Eggs Type-853,Breakfast,206,15,7,17,Body Building
+Salad Type-854,Lunch,218,2,16,6,Weight Loss
+Almonds Type-855,Snack,137,6,7,15,Body Building
+Chicken Breast Type-856,Lunch,409,40,0,12,Fitness
+Greek Yogurt Type-857,Snack,185,12,9,6,Weight Loss
+Salmon Type-858,Dinner,477,35,5,35,Muscle Gain
+Quinoa Bowl Type-859,Lunch,483,12,67,7,Body Building
+Salmon Type-860,Dinner,514,33,0,27,Body Building
+Oatmeal Type-861,Breakfast,332,11,46,9,Fitness
+Quinoa Bowl Type-862,Lunch,457,18,78,7,Body Building
+Salad Type-863,Lunch,231,8,22,14,Fitness
+Greek Yogurt Type-864,Snack,227,16,6,8,Fitness
+Oatmeal Type-865,Breakfast,346,9,53,9,Weight Loss
+Almonds Type-866,Snack,112,8,4,17,Muscle Gain
+Steak Type-867,Dinner,688,50,0,37,Muscle Gain
+Almonds Type-868,Snack,164,2,13,14,Body Building
+Chicken Breast Type-869,Lunch,400,45,0,7,Muscle Gain
+Steak Type-870,Dinner,672,46,0,43,Muscle Gain
+Almonds Type-871,Snack,175,3,4,19,Muscle Gain
+Steak Type-872,Dinner,709,46,2,37,Fitness
+Protein Shake Type-873,Snack,194,24,9,1,Muscle Gain
+Oatmeal Type-874,Breakfast,261,5,46,6,Fitness
+Eggs Type-875,Breakfast,294,17,8,10,Muscle Gain
+Greek Yogurt Type-876,Snack,200,16,9,0,Body Building
+Salad Type-877,Lunch,195,2,20,12,Fitness
+Oatmeal Type-878,Breakfast,332,14,54,1,Fitness
+Almonds Type-879,Snack,140,4,10,15,Fitness
+Chicken Breast Type-880,Lunch,423,40,0,8,Muscle Gain
+Eggs Type-881,Breakfast,295,20,1,11,Body Building
+Eggs Type-882,Breakfast,285,15,5,15,Muscle Gain
+Greek Yogurt Type-883,Snack,174,12,18,8,Muscle Gain
+Chicken Breast Type-884,Lunch,376,50,0,13,Weight Loss
+Protein Shake Type-885,Snack,170,30,3,2,Body Building
+Salad Type-886,Lunch,230,6,24,13,Fitness
+Salmon Type-887,Dinner,540,30,2,28,Fitness
+Salad Type-888,Lunch,153,10,13,8,Fitness
+Salmon Type-889,Dinner,463,38,7,27,Body Building
+Greek Yogurt Type-890,Snack,197,12,12,0,Fitness
+Oatmeal Type-891,Breakfast,340,9,41,5,Weight Loss
+Salad Type-892,Lunch,235,9,16,15,Muscle Gain
+Oatmeal Type-893,Breakfast,261,5,48,3,Weight Loss
+Salad Type-894,Lunch,190,2,14,7,Fitness
+Protein Shake Type-895,Snack,122,23,2,0,Weight Loss
+Steak Type-896,Dinner,733,55,0,40,Weight Loss
+Almonds Type-897,Snack,180,6,12,19,Body Building
+Protein Shake Type-898,Snack,174,20,2,7,Fitness
+Salad Type-899,Lunch,162,8,27,13,Muscle Gain
+Almonds Type-900,Snack,210,9,11,12,Muscle Gain
+Almonds Type-901,Snack,136,2,5,12,Weight Loss
+Almonds Type-902,Snack,170,10,7,15,Muscle Gain
+Eggs Type-903,Breakfast,211,19,11,14,Fitness
+Eggs Type-904,Breakfast,225,23,7,20,Body Building
+Steak Type-905,Dinner,656,54,6,36,Body Building
+Quinoa Bowl Type-906,Lunch,486,10,78,14,Weight Loss
+Chicken Breast Type-907,Lunch,418,41,2,7,Fitness
+Quinoa Bowl Type-908,Lunch,420,18,67,5,Muscle Gain
+Almonds Type-909,Snack,197,10,0,9,Weight Loss
+Eggs Type-910,Breakfast,244,21,5,17,Muscle Gain
+Almonds Type-911,Snack,130,10,5,17,Body Building
+Eggs Type-912,Breakfast,300,22,0,15,Muscle Gain
+Eggs Type-913,Breakfast,261,13,0,10,Weight Loss
+Almonds Type-914,Snack,174,5,1,15,Weight Loss
+Protein Shake Type-915,Snack,100,24,2,6,Muscle Gain
+Almonds Type-916,Snack,177,2,8,17,Fitness
+Salad Type-917,Lunch,215,7,14,15,Body Building
+Salmon Type-918,Dinner,493,36,0,35,Fitness
+Almonds Type-919,Snack,149,9,7,17,Muscle Gain
+Oatmeal Type-920,Breakfast,262,7,44,7,Weight Loss
+Protein Shake Type-921,Snack,138,27,6,0,Fitness
+Salad Type-922,Lunch,241,10,29,14,Body Building
+Protein Shake Type-923,Snack,172,24,0,4,Body Building
+Almonds Type-924,Snack,157,4,3,18,Muscle Gain
+Steak Type-925,Dinner,669,46,0,39,Muscle Gain
+Quinoa Bowl Type-926,Lunch,490,18,62,13,Muscle Gain
+Steak Type-927,Dinner,690,45,0,40,Body Building
+Oatmeal Type-928,Breakfast,293,5,44,6,Muscle Gain
+Eggs Type-929,Breakfast,271,13,7,16,Muscle Gain
+Salmon Type-930,Dinner,475,38,7,25,Weight Loss
+Salad Type-931,Lunch,184,2,26,14,Fitness
+Greek Yogurt Type-932,Snack,213,10,22,2,Body Building
+Salad Type-933,Lunch,152,3,15,6,Weight Loss
+Oatmeal Type-934,Breakfast,256,15,49,7,Body Building
+Quinoa Bowl Type-935,Lunch,465,18,63,10,Weight Loss
+Protein Shake Type-936,Snack,102,29,0,0,Weight Loss
+Oatmeal Type-937,Breakfast,326,15,51,9,Fitness
+Salad Type-938,Lunch,163,10,13,11,Body Building
+Salmon Type-939,Dinner,516,35,0,25,Muscle Gain
+Protein Shake Type-940,Snack,101,20,0,3,Muscle Gain
+Salmon Type-941,Dinner,481,38,8,28,Fitness
+Greek Yogurt Type-942,Snack,177,19,9,0,Weight Loss
+Protein Shake Type-943,Snack,174,30,15,0,Muscle Gain
+Chicken Breast Type-944,Lunch,357,41,8,12,Fitness
+Eggs Type-945,Breakfast,274,20,3,18,Muscle Gain
+Protein Shake Type-946,Snack,136,25,0,0,Muscle Gain
+Eggs Type-947,Breakfast,223,15,0,12,Weight Loss
+Greek Yogurt Type-948,Snack,155,14,3,6,Body Building
+Chicken Breast Type-949,Lunch,374,49,0,9,Weight Loss
+Greek Yogurt Type-950,Snack,184,16,15,6,Weight Loss
+Eggs Type-951,Breakfast,231,21,0,18,Weight Loss
+Almonds Type-952,Snack,193,10,11,15,Body Building
+Salad Type-953,Lunch,208,2,11,14,Weight Loss
+Salad Type-954,Lunch,250,8,21,11,Body Building
+Salmon Type-955,Dinner,459,37,0,30,Muscle Gain
+Almonds Type-956,Snack,172,4,9,12,Muscle Gain
+Steak Type-957,Dinner,732,45,7,35,Weight Loss
+Almonds Type-958,Snack,195,2,10,14,Weight Loss
+Chicken Breast Type-959,Lunch,430,45,0,15,Fitness
+Salmon Type-960,Dinner,489,36,0,26,Fitness
+Greek Yogurt Type-961,Snack,145,13,10,3,Weight Loss
+Oatmeal Type-962,Breakfast,259,13,48,9,Weight Loss
+Chicken Breast Type-963,Lunch,424,49,3,5,Muscle Gain
+Steak Type-964,Dinner,707,47,3,43,Fitness
+Quinoa Bowl Type-965,Lunch,441,18,74,12,Weight Loss
+Quinoa Bowl Type-966,Lunch,450,15,71,11,Weight Loss
+Almonds Type-967,Snack,177,5,6,11,Muscle Gain
+Salmon Type-968,Dinner,472,40,0,25,Weight Loss
+Oatmeal Type-969,Breakfast,291,5,40,6,Body Building
+Eggs Type-970,Breakfast,214,19,0,18,Body Building
+Eggs Type-971,Breakfast,224,18,0,20,Fitness
+Chicken Breast Type-972,Lunch,352,41,0,14,Fitness
+Almonds Type-973,Snack,206,6,15,13,Body Building
+Eggs Type-974,Breakfast,217,20,5,16,Muscle Gain
+Salad Type-975,Lunch,222,5,26,10,Fitness
+Salad Type-976,Lunch,236,2,23,8,Weight Loss
+Salmon Type-977,Dinner,466,32,1,31,Fitness
+Protein Shake Type-978,Snack,152,29,4,1,Body Building
+Eggs Type-979,Breakfast,210,20,0,20,Muscle Gain
+Eggs Type-980,Breakfast,231,19,0,11,Fitness
+Salad Type-981,Lunch,205,2,22,14,Weight Loss
+Oatmeal Type-982,Breakfast,337,9,49,1,Fitness
+Greek Yogurt Type-983,Snack,163,15,6,8,Fitness
+Chicken Breast Type-984,Lunch,413,50,0,7,Weight Loss
+Chicken Breast Type-985,Lunch,420,41,1,9,Weight Loss
+Greek Yogurt Type-986,Snack,225,19,3,1,Body Building
+Protein Shake Type-987,Snack,153,28,5,0,Fitness
+Oatmeal Type-988,Breakfast,330,8,51,4,Body Building
+Chicken Breast Type-989,Lunch,385,40,0,13,Weight Loss
+Steak Type-990,Dinner,684,55,0,39,Fitness
+Chicken Breast Type-991,Lunch,397,40,0,5,Weight Loss
+Protein Shake Type-992,Snack,197,20,4,4,Muscle Gain
+Salmon Type-993,Dinner,477,31,4,32,Weight Loss
+Greek Yogurt Type-994,Snack,135,20,11,1,Muscle Gain
+Salmon Type-995,Dinner,459,34,0,27,Muscle Gain
+Almonds Type-996,Snack,114,2,3,12,Fitness
+Salmon Type-997,Dinner,460,32,0,27,Body Building
+Salad Type-998,Lunch,234,2,15,5,Body Building
+Salmon Type-999,Dinner,463,40,0,26,Weight Loss
+Greek Yogurt Type-1000,Snack,192,18,9,0,Weight Loss
+Greek Yogurt Type-1001,Snack,178,10,3,7,Body Building
+Quinoa Bowl Type-1002,Lunch,423,14,70,9,Muscle Gain
+Eggs Type-1003,Breakfast,251,23,10,20,Weight Loss
+Steak Type-1004,Dinner,720,54,1,37,Muscle Gain
+Oatmeal Type-1005,Breakfast,261,9,57,10,Body Building
+Chicken Breast Type-1006,Lunch,418,47,0,5,Muscle Gain
+Eggs Type-1007,Breakfast,283,15,0,13,Fitness
+Quinoa Bowl Type-1008,Lunch,469,20,66,10,Body Building
+Oatmeal Type-1009,Breakfast,319,13,40,10,Weight Loss
+Salmon Type-1010,Dinner,548,39,9,30,Fitness
+Almonds Type-1011,Snack,130,3,16,10,Muscle Gain
+Salad Type-1012,Lunch,174,9,25,13,Weight Loss
+Protein Shake Type-1013,Snack,182,26,6,4,Fitness
+Oatmeal Type-1014,Breakfast,337,11,54,5,Muscle Gain
+Salad Type-1015,Lunch,222,10,17,14,Body Building
+Almonds Type-1016,Snack,118,10,15,11,Body Building
+Chicken Breast Type-1017,Lunch,385,42,0,13,Fitness
+Eggs Type-1018,Breakfast,227,15,12,15,Fitness
+Salad Type-1019,Lunch,210,5,26,9,Body Building
+Salad Type-1020,Lunch,250,6,25,13,Muscle Gain
+Eggs Type-1021,Breakfast,283,22,3,11,Weight Loss
+Greek Yogurt Type-1022,Snack,130,12,22,3,Fitness
+Steak Type-1023,Dinner,668,51,9,37,Fitness
+Oatmeal Type-1024,Breakfast,339,13,56,0,Weight Loss
+Eggs Type-1025,Breakfast,267,16,8,18,Fitness
+Protein Shake Type-1026,Snack,188,30,14,2,Fitness
+Salmon Type-1027,Dinner,537,39,0,33,Weight Loss
+Quinoa Bowl Type-1028,Lunch,416,16,69,14,Fitness
+Quinoa Bowl Type-1029,Lunch,458,11,79,10,Muscle Gain
+Chicken Breast Type-1030,Lunch,431,40,0,14,Weight Loss
+Almonds Type-1031,Snack,197,9,7,16,Body Building
+Quinoa Bowl Type-1032,Lunch,413,13,79,5,Weight Loss
+Oatmeal Type-1033,Breakfast,316,12,51,10,Weight Loss
+Oatmeal Type-1034,Breakfast,252,7,57,0,Body Building
+Steak Type-1035,Dinner,704,48,0,37,Weight Loss
+Protein Shake Type-1036,Snack,197,26,0,0,Weight Loss
+Chicken Breast Type-1037,Lunch,445,47,10,10,Muscle Gain
+Chicken Breast Type-1038,Lunch,420,41,0,12,Body Building
+Greek Yogurt Type-1039,Snack,205,13,10,2,Body Building
+Quinoa Bowl Type-1040,Lunch,419,10,60,5,Body Building
+Greek Yogurt Type-1041,Snack,191,13,3,7,Weight Loss
+Protein Shake Type-1042,Snack,152,25,10,0,Body Building
+Eggs Type-1043,Breakfast,218,20,0,15,Body Building
+Steak Type-1044,Dinner,650,55,0,36,Muscle Gain
+Chicken Breast Type-1045,Lunch,416,46,1,15,Weight Loss
+Protein Shake Type-1046,Snack,105,23,0,5,Weight Loss
+Eggs Type-1047,Breakfast,262,20,0,18,Weight Loss
+Salad Type-1048,Lunch,185,8,10,6,Muscle Gain
+Almonds Type-1049,Snack,144,4,13,14,Body Building
+Oatmeal Type-1050,Breakfast,295,14,52,4,Fitness
+Chicken Breast Type-1051,Lunch,431,45,9,10,Body Building
+Chicken Breast Type-1052,Lunch,406,50,0,7,Muscle Gain
+Protein Shake Type-1053,Snack,113,30,6,6,Weight Loss
+Chicken Breast Type-1054,Lunch,400,46,2,8,Fitness
+Eggs Type-1055,Breakfast,219,19,3,16,Fitness
+Steak Type-1056,Dinner,706,54,0,37,Muscle Gain
+Salad Type-1057,Lunch,199,9,25,10,Fitness
+Chicken Breast Type-1058,Lunch,424,40,7,7,Weight Loss
+Protein Shake Type-1059,Snack,138,30,9,0,Body Building
+Greek Yogurt Type-1060,Snack,194,19,17,0,Weight Loss
+Protein Shake Type-1061,Snack,179,21,0,3,Muscle Gain
+Greek Yogurt Type-1062,Snack,140,17,21,0,Body Building
+Quinoa Bowl Type-1063,Lunch,435,10,72,13,Fitness
+Salmon Type-1064,Dinner,491,30,3,28,Fitness
+Quinoa Bowl Type-1065,Lunch,484,15,70,8,Muscle Gain
+Salmon Type-1066,Dinner,491,36,0,28,Fitness
+Protein Shake Type-1067,Snack,162,24,8,0,Muscle Gain
+Greek Yogurt Type-1068,Snack,149,14,5,0,Body Building
+Protein Shake Type-1069,Snack,190,21,9,4,Weight Loss
+Almonds Type-1070,Snack,110,9,2,11,Body Building
+Salad Type-1071,Lunch,248,6,15,10,Weight Loss
+Almonds Type-1072,Snack,119,3,0,13,Body Building
+Steak Type-1073,Dinner,670,54,5,38,Body Building
+Chicken Breast Type-1074,Lunch,384,49,0,14,Body Building
+Salmon Type-1075,Dinner,545,36,0,30,Muscle Gain
+Oatmeal Type-1076,Breakfast,278,5,60,4,Body Building
+Greek Yogurt Type-1077,Snack,138,18,9,8,Muscle Gain
+Greek Yogurt Type-1078,Snack,139,12,14,5,Fitness
+Steak Type-1079,Dinner,692,54,0,35,Weight Loss
+Greek Yogurt Type-1080,Snack,225,17,5,0,Muscle Gain
+Eggs Type-1081,Breakfast,256,18,0,17,Body Building
+Protein Shake Type-1082,Snack,131,25,0,4,Fitness
+Eggs Type-1083,Breakfast,240,13,8,10,Weight Loss
+Chicken Breast Type-1084,Lunch,376,48,0,6,Fitness
+Greek Yogurt Type-1085,Snack,222,12,21,6,Fitness
+Oatmeal Type-1086,Breakfast,297,13,41,7,Weight Loss
+Almonds Type-1087,Snack,189,3,10,18,Body Building
+Oatmeal Type-1088,Breakfast,318,11,53,10,Weight Loss
+Steak Type-1089,Dinner,653,52,4,39,Fitness
+Eggs Type-1090,Breakfast,289,17,0,16,Body Building
+Protein Shake Type-1091,Snack,192,26,0,1,Weight Loss
+Protein Shake Type-1092,Snack,125,29,13,7,Fitness
+Quinoa Bowl Type-1093,Lunch,422,17,61,5,Weight Loss
+Eggs Type-1094,Breakfast,226,15,1,16,Muscle Gain
+Quinoa Bowl Type-1095,Lunch,462,13,67,12,Muscle Gain
+Quinoa Bowl Type-1096,Lunch,424,20,75,5,Muscle Gain
+Steak Type-1097,Dinner,678,53,0,37,Weight Loss
+Almonds Type-1098,Snack,158,2,1,13,Fitness
+Quinoa Bowl Type-1099,Lunch,418,18,70,7,Fitness
